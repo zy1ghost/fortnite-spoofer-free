@@ -1,7 +1,5 @@
-# SecHex-Spoofy [1.5.8] [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]()
 
-Simple HWID-Changer 🔑︎ 
-Some Lines of the CLI Version are from @LockBlock-dev
+ZY1 SPOOFER MOST OF THIS I COPY 
 
 
 
