@@ -1,6 +1,6 @@
 
 ZY1 SPOOFER MOST OF THIS I COPY 
-
+ my discords server https://discord.gg/HZdJdqRy
 
 
 **Windows 11** Version 10.0.22621 Build 22621 ✅                                      
